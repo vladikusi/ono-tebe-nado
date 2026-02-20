@@ -76,7 +76,7 @@
   background: rgb(0, 0, 0, 0.6);
 }
 
-.cover__title{
+.cover__title {
   position: relative;
   z-index: 1;
   display: flex;
@@ -222,21 +222,21 @@
   text-underline-offset: 4px;
 }
 
-.about{
+.about {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 25px;
   padding: 181px 24px 0px;
 }
 
-.about__column{
+.about__column {
   display: flex;
   flex-direction: column;
   grid-column: 2/4;
   gap: 24px;
 }
 
-.about__logo{
+.about__logo {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -247,7 +247,7 @@
   background-color: #000;
 }
 
-.about__logo-image{
+.about__logo-image {
   max-width: 148px;
   max-height: 114px;
 }
